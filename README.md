@@ -2,8 +2,8 @@
 
 > **Asignatura:** Fundamentos de Programación Concurrente y Distribuida  
 > **Docente:** Prf. Alejandro Jaimes  
-> **Fecha:** DD/MM/2025  
-> **Repositorio:** [LINK_REPO]()
+> **Fecha:** 5/05/2026  
+> **Repositorio:** [https://github.com/Gal4h4d/computacion-paralela-distribuida]()
 
 ---
 
@@ -11,8 +11,8 @@
 
 | | Colaborador | GitHub |
 |---|---|---|
-| 👤 | Nombre Persona A | [@usuario_a](https://github.com/usuario_a) |
-| 👤 | Nombre Persona B | [@usuario_b](https://github.com/usuario_b) |
+| 👤 | Juan David Miranda Pelaez | [Gal4h4d](https://github.com/Gal4h4d) |
+| 👤 | Cristhian David Parra Parada | [CristhianParada](https://github.com/CristhianParada) |
 
 **Repositorio:** [computacion-paralela-distribuida](https://github.com/usuario_a/computacion-paralela-distribuida)  
 **Rama principal:** `main`
