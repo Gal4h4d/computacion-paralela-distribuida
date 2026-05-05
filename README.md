@@ -14,7 +14,7 @@
 | 👤 | Juan David Miranda Pelaez | [Gal4h4d](https://github.com/Gal4h4d) |
 | 👤 | Cristhian David Parra Parada | [CristhianParada](https://github.com/CristhianParada) |
 
-**Repositorio:** [computacion-paralela-distribuida](https://github.com/usuario_a/computacion-paralela-distribuida)  
+**Repositorio:** [computacion-paralela-distribuida](https://github.com/Gal4h4d/computacion-paralela-distribuida)  
 **Rama principal:** `main`
 
 ## Configuración del repositorio
