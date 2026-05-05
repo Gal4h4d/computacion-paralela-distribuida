@@ -1,4 +1,4 @@
-# LAB-01-MPI-OPENMP-HYBRID | Nombre Persona A & Nombre Persona B
+# LAB-01-MPI-OPENMP-HYBRID | Juan David Miranda Pelaez & Cristhian David Parra Parada
 
 > **Asignatura:** Fundamentos de Programación Concurrente y Distribuida  
 > **Docente:** Prf. Alejandro Jaimes  
