@@ -21,5 +21,5 @@
 
 ### Clonar
 ```bash
-git clone https://github.com/usuario_a/computacion-paralela-distribuida.git
+git clone https://github.com/Gal4h4d/computacion-paralela-distribuida.git
 cd computacion-paralela-distribuida
