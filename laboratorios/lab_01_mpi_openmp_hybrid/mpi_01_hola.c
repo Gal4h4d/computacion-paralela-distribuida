@@ -1,9 +1,7 @@
 #include <mpi.h>
 #include <stdio.h>
- 
 int main(int argc, char** argv) {
     MPI_Init(&argc, &argv);          // Inicializar MPI
- 
     int rank, size;
     MPI_Comm_rank(MPI_COMM_WORLD, &rank);  // ID de este proceso
     MPI_Comm_size(MPI_COMM_WORLD, &size);  // Total de procesos
@@ -16,7 +14,6 @@ int main(int argc, char** argv) {
     if (rank == 0) {
         printf("[MAESTRO] Todos los %d procesos han saludado.\n", size);
     }
- 
     MPI_Finalize();                  // Cerrar MPI
     return 0;
 }
